@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+
+.idea/
+*.iml
+
+# Build Output
+
+out/
+target/
+build/
+
+# Runtime Data Files
+
+primary-data.txt
+replica1-data.txt
+replica2-data.txt
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
