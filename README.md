@@ -15,7 +15,6 @@ The project supports:
 * Sharding concepts
 * Consistent hashing concepts
 
-This project was developed to gain hands-on experience with distributed systems, networking, concurrency, fault tolerance, and scalable software design.
 
 ---
 
