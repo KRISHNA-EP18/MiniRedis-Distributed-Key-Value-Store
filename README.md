@@ -316,7 +316,7 @@ SHOWALL
 
 ---
 
-## Key Concepts Learned
+## Key Concepts
 
 * Distributed Systems
 * Concurrency
