@@ -316,7 +316,7 @@ SHOWALL
 
 ---
 
-## Key Concepts used
+## Key Concepts
 
 * Distributed Systems
 * Concurrency
