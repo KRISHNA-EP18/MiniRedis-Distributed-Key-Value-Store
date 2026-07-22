@@ -16,7 +16,7 @@ The project supports:
 * Consistent hashing concepts
 
 
----
+--- 
 
 ## Architecture
 
