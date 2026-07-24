@@ -10,7 +10,7 @@ The project supports:
 * Concurrent request processing using thread pools
 * Thread-safe in-memory storage
 * Persistent storage on disk
-* Primary-replica replication
+* Primary-replica replication 
 * Multi-node architecture
 * Sharding concepts
 * Consistent hashing concepts
