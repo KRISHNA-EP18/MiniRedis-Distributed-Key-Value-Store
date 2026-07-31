@@ -7,7 +7,7 @@ MiniRedis is a distributed key-value store built from scratch in Java to explore
 The project supports:
 
 * TCP-based client-server communication
-* Concurrent request processing using thread pools
+* Concurrent request processing using thread pools 
 * Thread-safe in-memory storage
 * Persistent storage on disk
 * Primary-replica replication 
