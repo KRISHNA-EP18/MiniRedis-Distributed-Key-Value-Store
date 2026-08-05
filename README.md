@@ -2,7 +2,7 @@
 
 ## Overview
 
-MiniRedis is a distributed key-value store built from scratch in Java to explore the core concepts behind modern distributed systems such as Redis, DynamoDB, and Cassandra.
+MiniRedis is a distributed key-value store built from scratch in Java to explore the core concepts behind modern distributed systems such as Redis, DynamoDB, and Cassandra. 
 
 The project supports:
 
